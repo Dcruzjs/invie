@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/invie/static/css/main.dd7d020c.chunk.css",
+    "main.js": "/invie/static/js/main.5b6916cc.chunk.js",
+    "main.js.map": "/invie/static/js/main.5b6916cc.chunk.js.map",
+    "runtime-main.js": "/invie/static/js/runtime-main.b43d9e5f.js",
+    "runtime-main.js.map": "/invie/static/js/runtime-main.b43d9e5f.js.map",
+    "static/js/2.06b5f514.chunk.js": "/invie/static/js/2.06b5f514.chunk.js",
+    "static/js/2.06b5f514.chunk.js.map": "/invie/static/js/2.06b5f514.chunk.js.map",
+    "index.html": "/invie/index.html",
+    "precache-manifest.2428ce6147e40a9f6f5927af7f727acb.js": "/invie/precache-manifest.2428ce6147e40a9f6f5927af7f727acb.js",
+    "service-worker.js": "/invie/service-worker.js",
+    "static/css/main.dd7d020c.chunk.css.map": "/invie/static/css/main.dd7d020c.chunk.css.map",
+    "static/js/2.06b5f514.chunk.js.LICENSE.txt": "/invie/static/js/2.06b5f514.chunk.js.LICENSE.txt",
+    "static/media/invie.css": "/invie/static/media/team-platzi-azul.70297162.jpg",
+    "static/media/animations.css": "/invie/static/media/corazon.45598562.png",
+    "static/media/easter-a.png": "/invie/static/media/easter-a.ba2e415e.png",
+    "static/media/easter-b.png": "/invie/static/media/easter-b.7d7a81dc.png",
+    "static/media/invie-acustica.png": "/invie/static/media/invie-acustica.ec9833fc.png",
+    "static/media/invie-classic.png": "/invie/static/media/invie-classic.6cdc30e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43d9e5f.js",
+    "static/js/2.06b5f514.chunk.js",
+    "static/css/main.dd7d020c.chunk.css",
+    "static/js/main.5b6916cc.chunk.js"
+  ]
+}
